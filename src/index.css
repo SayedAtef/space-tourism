@@ -7,19 +7,19 @@ body {
 
 @media screen  and (max-width: 450px){
   .wrapper {
-    background-image: url('./assets/home/background-home-mobile.jpg');
+    background-image: url('/assets/home/background-home-mobile.jpg');
   }
 
   .destinationWrapper {
-    background-image: url('./assets/destination/background-destination-mobile.jpg');
+    background-image: url('/assets/destination/background-destination-mobile.jpg');
   }
 
   .crewWrapper {
-    background-image: url('./assets/crew/background-crew-mobile.jpg');
+    background-image: url('/assets/crew/background-crew-mobile.jpg');
   }
 
   .techWrapper {
-    background-image: url('./assets/technology/background-technology-mobile.jpg');
+    background-image: url('/assets/technology/background-technology-mobile.jpg');
   }
 
   .topbarNavTablet {
@@ -272,18 +272,18 @@ body {
 
 @media screen  and (max-width: 950px) and (min-width: 450px) {
   .wrapper {
-    background-image: url('./assets/home/background-home-tablet.jpg');
+    background-image: url('/assets/home/background-home-tablet.jpg');
   }
   .destinationWrapper {
-    background-image: url('./assets/destination/background-destination-tablet.jpg');
+    background-image: url('/assets/destination/background-destination-tablet.jpg');
   }
 
   .crewWrapper {
-    background-image: url('./assets/crew/background-crew-tablet.jpg');
+    background-image: url('/assets/crew/background-crew-tablet.jpg');
   }
 
   .techWrapper {
-    background-image: url('./assets/technology/background-technology-tablet.jpg');
+    background-image: url('/assets/technology/background-technology-tablet.jpg');
   }
 
   .hamburger {
@@ -559,18 +559,18 @@ body {
 
 @media screen and (min-width: 950px) {
   .wrapper {
-    background-image: url('./assets/home/background-home-desktop.jpg');
+    background-image: url('/assets/home/background-home-desktop.jpg');
   }
   .destinationWrapper {
-    background-image: url('./assets/destination/background-destination-desktop.jpg')
+    background-image: url('/assets/destination/background-destination-desktop.jpg')
   }
 
   .crewWrapper {
-    background-image: url('./assets/crew/background-crew-desktop.jpg');
+    background-image: url('/assets/crew/background-crew-desktop.jpg');
   }
 
   .techWrapper {
-    background-image: url('./assets/technology/background-technology-desktop.jpg');
+    background-image: url('/assets/technology/background-technology-desktop.jpg');
   }
 
   .hamburger {
